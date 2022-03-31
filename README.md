@@ -27,10 +27,6 @@ ETAPA 3 - PROGRAMAÇÃO
 <ul> 11 - Responda as três perguntas contidas no arquivo .txt e o mantenha dentro da pasta DESAFIO.</ul>
 <ul> 12 - commite a pasta para seu repositório das atividades diárias e poste o link do seu repositório uma última vez no discord, na aba bd-bi-envios.</ul>
 
-OBSERVAÇÕES:
-- Vocês terão até AMANHÃ (sábado, 26/03/2022) ás 12:00 para enviar para seus repositórios.
-- Podem nos consultar para dúvidas, mas prefiram ir testando e procurando na internet para desenvolver autonomia em situações cotidianas.
-- Não sabemos ainda quando haverá devolutiva dos desafios, mas entraremos em contato pelos dados já informados por vocês.
 
 Em nome de toda equipe de instrutores de BD/BI (Gabriel, Bernardo, João Marcos Kleber e eu) e da Fábrica de Software, agradecemos pela excelente semana que tivemos.
 Desejamos sucesso em futuros projetos pela Fábrica e durante sua carreira na TI.
